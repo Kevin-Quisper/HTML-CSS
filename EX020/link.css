@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+a:active {
+    color: darkturquoise;
+}
+
+a::after {
+    content:'[link]';
+}
+/* 
+# = Id
+. = Class
+: = Pseudo-class
+:: = pseudo-element
+> = children
+*/

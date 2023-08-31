@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient( to right,red,orange,darkblue);
+    font-family: Arial, Helvetica, serif;
+}
+h1 {
+    color: rgb(255, 0, 0);
+}
+h1#principal {
+    text-align: center; 
+}
+h2 {
+    color: rgb(207, 38, 38);
+}
+p {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+main {
+    background-color: #F7FAFF;
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #0D0D0D;
+}
+h2.basic {
+    color: blue;
+}

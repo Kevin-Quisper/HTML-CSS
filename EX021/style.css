@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    
+    border: 10px solid aqua;
+   
+    padding: 10px;
+
+    margin: 20px auto 40px auto;
+
+    outline: 5px dashed darkcyan;
+}
+
+a {
+    border-width: 3px;
+    border-style: solid;
+    border-color: aqua;
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: darkgrey;
+
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+p{
+    font-family: verdana;
+    font-size: 10px;
+    color: beige;
+    text-align:center;
+
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';    
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; 
+}
+h4{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; 
+}
